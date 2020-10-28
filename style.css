@@ -194,6 +194,11 @@ section h2 {
   margin-bottom: 8px;
 }
 
+.showcase__card p a {
+  color: rgb(36, 9, 155) !important;
+  text-decoration: underline;
+}
+
 .showcase__card button {
   margin-top:8px;
 }
